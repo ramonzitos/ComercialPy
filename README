@@ -7,7 +7,7 @@ You need:
 ## How to start ##
 If you want to migrate the DB from ComercialFree(recommended), then:
 
-1. Copy the "DBCOMERCIO.FDB" file from ComerciallFree's directory to this directory.
+1. Copy the "DBCOMERCIO.FDB" file from ComercialFree's directory to this directory.
 2. Run "python migratedb.py DBCOMERCIO.FDB comercialpy.db"(set the password for SYSDBA in the script).
 3. Enjoy!
 
